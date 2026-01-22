@@ -1,0 +1,16 @@
+{
+  "name": "booms-bot",
+  "version": "1.0.0",
+  "description": "Discord moderasyon botu - Slash komutlar ile",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [ "discord", "bot", "moderasyon" ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
